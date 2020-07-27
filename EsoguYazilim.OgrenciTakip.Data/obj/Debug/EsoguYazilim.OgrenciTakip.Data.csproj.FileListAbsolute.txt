@@ -1,0 +1,5 @@
+C:\Users\onggu\source\repos\EsoguYazilimOgrenciTakip\EsoguYazilim.OgrenciTakip.Data\bin\Debug\EsoguYazilim.OgrenciTakip.Data.dll
+C:\Users\onggu\source\repos\EsoguYazilimOgrenciTakip\EsoguYazilim.OgrenciTakip.Data\bin\Debug\EsoguYazilim.OgrenciTakip.Data.pdb
+C:\Users\onggu\source\repos\EsoguYazilimOgrenciTakip\EsoguYazilim.OgrenciTakip.Data\obj\Debug\EsoguYazilim.OgrenciTakip.Data.csproj.CoreCompileInputs.cache
+C:\Users\onggu\source\repos\EsoguYazilimOgrenciTakip\EsoguYazilim.OgrenciTakip.Data\obj\Debug\EsoguYazilim.OgrenciTakip.Data.dll
+C:\Users\onggu\source\repos\EsoguYazilimOgrenciTakip\EsoguYazilim.OgrenciTakip.Data\obj\Debug\EsoguYazilim.OgrenciTakip.Data.pdb
